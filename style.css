@@ -1,7 +1,8 @@
 .father {
   display: flex;
-  flex-direction: row;
-  gap: 10px;
+  height: 100vh;
+  justify-content: space-around;
+  align-items: center;
 }
 
 .box {
@@ -10,4 +11,7 @@
   background-color: tomato;
   color: white;
   font-size: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
