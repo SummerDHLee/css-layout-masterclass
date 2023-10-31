@@ -6,6 +6,6 @@
 
 - 23.10.30 #1 INTRODUCTION
 - 23.10.30 #2 FLEXBOX
-- nn.nn.nn #3 GRID
+- 23.10.31 #3 GRID
 - nn.nn.nn #4 SCSS
 - nn.nn.nn #5 PRACTICE PROJECTS
